@@ -34,7 +34,7 @@ visual skeleton example:
 ```var chartWrapper = d3.select('#my-div').datum([dataSet]).call(myChart);```
 
 
-Here is a table of methods for the API that can be called on bubbles that can be passed into myChart to set it up accordingly 
+Here is a table of methods for the API that can be called on bubbles that can be passed into myChart to set it up accordingly
 
 ## Bubbles methods
 
@@ -51,4 +51,4 @@ Here is a table of methods for the API that can be called on bubbles that can be
 |chart.strength | integer (recommend >0 #s ), chart.strength(-100) | sets the power in which the bubbles repel off on another to add more or less spacing between them |
 
 
-link to an example
+link to an [example](http://staff.washington.edu/ibaghai/info474_A3ex/bubbles.html)
